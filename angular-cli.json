@@ -40,7 +40,8 @@
       "config": "./karma.conf.js"
     }
   },
-  "defaults": {
+  "defaults": { 
+    "poll":1000,
     "styleExt": "css",
     "prefixInterfaces": false,
     "inline": {
